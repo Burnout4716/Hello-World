@@ -1,2 +1,2 @@
 # Hello-World
-Informatics Fundamentals
+Informatics Fundamentals at Ivy Tech
